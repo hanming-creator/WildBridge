@@ -1,0 +1,11 @@
+- [x] Modify `index.html` to update Features Section layout (1/2 text, 1/2 images)
+- [x] Add 6 screenshots in a 3x2 grid
+- [x] Add two new feature text blocks: "Play Minigames" and "Learn New Facts"
+- [x] Vertically space text blocks to match image grid height
+- [x] Add thin divider between Intro and Features sections
+- [x] Reduce spacing between Intro and Features sections by 3/4
+- [x] Reduce white space under Features section by 1/2
+- [x] Spread out images by increasing grid gap to `gap-4`
+- [x] Reduce right-side white space by adjusting container padding (`pr-4`)
+- [x] Apply rounded corners and proportions
+- [x] Verify layout and image rendering
